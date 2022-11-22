@@ -3,7 +3,7 @@
 Maker Media GmbH
 
 
-![Aufmacher](https://github.com/MakeMagazinDE/Trenntrafo/blob/main/aufm_gh.jpg)
+![Aufmacher](https://github.com/MakeMagazinDE/DigitaleFilter/blob/main/aufm_kl.JPG)
 
 # Digital filtern und oszillieren
 
