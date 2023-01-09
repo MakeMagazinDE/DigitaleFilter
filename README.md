@@ -13,4 +13,4 @@ Signalverarbeitung in Kürzewürze: Mit nur drei Programmzeilen kann man Messwer
 
 Alle Beispiele für den ESP32 sind im Arduino-Sketch **filter_osc.ino** enthalten, einzelne Teile sind durch Entfernen der "//" zu aktivieren.
 
-Zusätzlich stellen wir einige VHDL-Dateien zur Implementierung der Filter und eines Oszillators auf einem FPGA zur Verfügung.
+Zusätzlich stellen wir einige VHDL-Dateien zur Implementierung der Filter und eines Oszillators auf einem FPGA zur Verfügung (16 Bit Audio-Auflösung).
